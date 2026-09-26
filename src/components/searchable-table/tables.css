@@ -21,3 +21,13 @@ td {
         cursor: pointer;
     }
 }
+
+.pageButton:hover {
+    cursor: pointer;
+}
+
+/* @media (max-width: 768px) {
+    table {
+        overflow-x: scroll;
+    }
+} */
